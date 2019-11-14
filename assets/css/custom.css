@@ -1,0 +1,21 @@
+.fa-money {
+    color: #fff !important;
+}
+
+.flash-sms {
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    background: #fff;
+  }
+
+.flash-sms span {
+    font-size: 14px;
+    color: red;
+}
+
+.important {
+    color: red;;
+}
+
+@media (max-width:480px) {}
+
